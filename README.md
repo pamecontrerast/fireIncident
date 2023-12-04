@@ -63,12 +63,7 @@ def assign_battalion(df):
 
 ## ¿Qué contiene el repositorio?
 
-En "files" se encuentran los archivos generados en cada capa de procesamiento.
-
 En "lambda" se encuentran los codigos de las lambdas que se implementaron en cada capa.
 
 El archivo  "analisis-data.ipynb" contiene algunos análisis que realicé en el desarrollo de estos pasos.
-
-![DWH](/img/git.png)
-
 
